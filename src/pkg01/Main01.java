@@ -5,6 +5,5 @@ public class Main01 {
         System.out.println("Hello from branch tb01 1st time");
         System.out.println("Hello from branch tb01 2nd time");
         System.out.println("Hello from branch tb01 3rd time");
-        System.out.println("Hello from branch tb01 4th time");
     }
 }
