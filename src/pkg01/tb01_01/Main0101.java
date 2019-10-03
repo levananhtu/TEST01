@@ -1,7 +1,7 @@
-public class Main00 {
+package pkg01.tb01_01;
+
+public class Main0101 {
     public static void main(String[] args) {
-        System.out.println("Hello from branch tb01");
-        //
         System.out.println("Hello from branch tb01.01");
     }
 }
