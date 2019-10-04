@@ -1,3 +1,4 @@
 
 *.class
 out/production/TEST01/META-INF/TEST01.kotlin_module
+.idea/misc.xml
