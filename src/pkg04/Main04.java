@@ -5,5 +5,6 @@ public class Main04 {
         System.out.println("Hello from branch tb04 1st time");
         //
         System.out.println("Hello from branch tb04.02 1st time");
+        System.out.println("Hello from branch tb04.01 1st time");
     }
 }
